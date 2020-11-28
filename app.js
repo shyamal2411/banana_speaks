@@ -4,7 +4,7 @@ alert("This script works!" + username)
 var welcomemessage ="This is working!" +username;
 
 
-//output
+output
 alert(welcomemessage);*/
 var username = prompt("Please input username")
 
